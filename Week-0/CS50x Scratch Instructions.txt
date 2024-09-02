@@ -1,0 +1,5 @@
+You play as the Scratch Cat, use the keyboard arrows to move (Ie. Up arrow =  Goes Up) and you must run away from the bear that is chasing you.
+You can press "a" to run faster.
+Collect the yellow balls to earn points, each time you earn a point, your speed and the bear's will be risen.
+Earn 11 points (points > 10) to win the game.
+If the bear catches you, the game and the points are reset. (same when you win, but at least there is a cool message) 
